@@ -1,0 +1,6 @@
+canvas{
+    background-color: aquamarine;
+    width: 95vw;  /* 100% del ancho del viewport */
+    height: 95vh; /* 100% del alto del viewport */
+      
+}
